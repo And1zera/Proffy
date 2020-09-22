@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/59872272/93836939-bd375e00-fc5a-11ea-823b-0d1359967c63.png)
 
-## Proffy Web 📚
+# Proffy 📚
 
 Projeto de desenvolvido durante a semana Next Level Week da Rocketseat 🚀 com o objetivo facilitar a busca de professores para aulas particulares. 
 
