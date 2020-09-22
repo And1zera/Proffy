@@ -44,4 +44,4 @@ Assim que é feito o filtro de matérias e horarios será feita a busca de profe
 
 
 
-###### Creditos : https://rocketseat.com.br/
+###### Créditos : https://rocketseat.com.br/
