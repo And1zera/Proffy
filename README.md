@@ -35,5 +35,10 @@ Assim que é feito o filtro de matérias e horarios será feita a busca de profe
 ### Como Executar 💥
 
 > $ git clone https://github.com/And1zera/Proffy.git
+> Powersheel : npm install
+> Powersheel : npm run dev
+> Acesse o navegador : http://localhost:5500/
 
 
+
+Creditos : https://rocketseat.com.br/
