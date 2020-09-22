@@ -33,3 +33,7 @@ Assim que é feito o filtro de materias e horarios será feita a busca de profes
 - Nunjucks
 
 ### Como Executar 💥
+
+> $ git clone https://github.com/And1zera/Proffy.git
+
+
