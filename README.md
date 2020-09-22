@@ -5,9 +5,9 @@
 Projeto de desenvolvido durante a semana Next Level Week da Rocketseat 🚀 com o objetivo facilitar a busca de professores para aulas particulares. 
 
 
-### Pagina inicial 🙋
+### Página inicial 🙋
 
-A pagina inicial foi desenvolvida pensando em facilidade de visualiação do usuário.
+A página inicial foi desenvolvida pensando em facilidade de visualiação do usuário.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/59872272/93835933-49478680-fc57-11ea-88ed-123d3d9fbe45.png)
 
@@ -35,10 +35,13 @@ Assim que é feito o filtro de matérias e horarios será feita a busca de profe
 ### Como Executar 💥
 
 > $ git clone https://github.com/And1zera/Proffy.git
+
 > Powersheel : npm install
+
 > Powersheel : npm run dev
+
 > Acesse o navegador : http://localhost:5500/
 
 
 
-Creditos : https://rocketseat.com.br/
+###### Creditos : https://rocketseat.com.br/
