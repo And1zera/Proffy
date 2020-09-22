@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/59872272/93836576-97f62000-fc59-11ea-9516-17860000f128.png)
+![Logo](https://user-images.githubusercontent.com/59872272/93836939-bd375e00-fc5a-11ea-823b-0d1359967c63.png)
 
 ## Proffy Web 📚
 
