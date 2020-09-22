@@ -2,7 +2,7 @@
 
 # Proffy 📚
 
-Projeto de desenvolvido durante a semana Next Level Week da Rocketseat 🚀 com o objetivo facilitar a busca de professores para aulas particulares. 
+Projeto de desenvolvido durante a semana Next Level Week da Rocketseat 🚀 com o objetivo facilitar a busca de professores e agendamento de aulas particulares. 
 
 
 ### Página inicial 🙋
